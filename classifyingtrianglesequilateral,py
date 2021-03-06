@@ -1,0 +1,3 @@
+# Credit to Math with Mr. J (https://www.youtube.com/watch?v=yexIg1GtAG4) for the value name idea, in his video at 0:05
+triangleallsides1 = 5
+print(triangleallsides1, "is a equilateral.")
