@@ -1,0 +1,6 @@
+# Credit to google for the value names
+a = 10
+b = 20
+c = 30
+d = 40
+print(a+b+c+d)
