@@ -1,3 +1,4 @@
+# Credit to github copilot for help with this
 def test(test):
     if test < 10:
         print("This number is less than 10")
