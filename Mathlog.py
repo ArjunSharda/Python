@@ -1,2 +1,2 @@
-# You will have to import math by putting import math
+import math
 print(math.log(55, 120))
